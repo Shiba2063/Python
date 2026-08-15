@@ -1,0 +1,9 @@
+# r = Read
+# w = Write
+# a = Append
+# x = Create a new file
+# r+ = Read and write
+# w+ = Write and read
+# a+ = Append and read
+# b = Binary mode
+# t = Text mode
